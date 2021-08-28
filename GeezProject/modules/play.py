@@ -534,7 +534,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/FreeSupportsGroup"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/Sokinlahsini"),
                     InlineKeyboardButton("⛑ Channel", url="https://t.me/FreeMusicCH"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
@@ -581,7 +581,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/FreeSupportsGroup"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/Sokinlahsini"),
                     InlineKeyboardButton("⛑ Channel", url="https://t.me/FreeMusicCH"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
@@ -659,7 +659,7 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/FreeSupportsGroup"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/Sokinlahsini"),
                     InlineKeyboardButton("⛑ Channel", url="https://t.me/FreeMusicCH"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
@@ -801,7 +801,7 @@ async def ytplay(_, message: Message):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/FreeSupportsGroup"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/Sokinlahsini"),
                     InlineKeyboardButton("⛑ Channel", url="https://t.me/FreeMusicCH"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
@@ -1034,7 +1034,7 @@ async def lol_cb(b, cb):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/FreeSupportsGroup"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/Sokinlahsini"),
                     InlineKeyboardButton("🛡️ Channel", url="https://t.me/FreeMusicCH"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
