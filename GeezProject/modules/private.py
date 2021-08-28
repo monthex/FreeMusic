@@ -168,7 +168,7 @@ async def reload(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Group Support", url=f"https://t.me/FreeSupportsGroup"
+                        "Group Support", url=f"https://t.me/Sokinlahsini"
                     ),
                     InlineKeyboardButton(
                         "Created By", url=f"https://t.me/RxyzBOS"
